@@ -1,0 +1,12 @@
+
+public class Cliente implements Autenticavel {
+	
+	public void setSenha(int senha) {
+		return 0;
+	}
+	
+	public boolean autentica(int senha) {
+		return 0;
+	}
+	
+}
